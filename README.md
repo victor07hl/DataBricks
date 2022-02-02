@@ -1,2 +1,2 @@
 # DataBricks
-This repository is for prube databricks with repos
+This repository is for prove databricks with repos
