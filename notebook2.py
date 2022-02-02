@@ -15,4 +15,10 @@ plt.show()
 
 # COMMAND ----------
 
+plt.plot(x,y)
+plt.grid(True)
+plt.show()
+
+# COMMAND ----------
+
 
